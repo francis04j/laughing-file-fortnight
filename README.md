@@ -26,8 +26,10 @@ pip freeze > requirements.txt
 Usage
 From your project root, run:
 
-make setup       # One-stop setup
-make install     # If you already have requirements.txt
-make freeze      # Save current deps to requirements.txt
-make clean       # Remove the venv
-⚠️ The source command works in bash/zsh.
+1. make setup       # One-stop setup
+2. make install     # If you already have requirements.txt
+3. make freeze      # Save current deps to requirements.txt
+4. make clean       # Remove the venv
+
+⚠️ Warning > 
+The source command works in bash/zsh.
