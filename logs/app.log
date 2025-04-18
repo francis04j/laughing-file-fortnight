@@ -1,0 +1,32 @@
+2025-04-18 01:49:46.797 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 01:57:14.713 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 01:57:37.709 | ERROR    | main:upload_cv:96 - AWS error: An error occurred (ResourceNotFoundException) when calling the PutItem operation: Requested resource not found
+2025-04-18 02:05:04.631 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:05:15.377 | ERROR    | main:upload_cv:96 - AWS error: An error occurred (ResourceNotFoundException) when calling the PutItem operation: Requested resource not found
+2025-04-18 02:06:02.291 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:06:06.968 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:06:16.792 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:07:34.999 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:07:55.858 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:08:04.543 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 02:10:26.939 | ERROR    | main:upload_cv:96 - AWS error: An error occurred (ResourceNotFoundException) when calling the PutItem operation: Requested resource not found
+2025-04-18 12:54:59.364 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 12:55:28.464 | INFO     | main:upload_cv:82 - CV uploaded successfully for applicant_id: %s
+2025-04-18 12:55:28.464 | INFO     | main:upload_cv:85 - CV URL: %s
+2025-04-18 12:55:28.464 | INFO     | main:upload_cv:92 - Response: %s
+2025-04-18 13:14:53.477 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:18:03.053 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:19:19.605 | INFO     | main:get_cv:61 - Fetched CV s3 url for applicant_id: %s
+2025-04-18 13:20:08.622 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:20:12.590 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:20:13.737 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:20:15.482 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:20:21.162 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:20:23.202 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:20:25.253 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:21:14.269 | INFO     | main:upload_cv:99 - CV uploaded successfully for applicant_id: %s
+2025-04-18 13:21:14.269 | INFO     | main:upload_cv:101 - CV URL: %s
+2025-04-18 13:21:14.269 | INFO     | main:upload_cv:108 - Response: %s
+2025-04-18 13:21:44.861 | INFO     | main:get_cv:61 - Fetched CV s3 url for applicant_id: %s
+2025-04-18 13:35:37.614 | INFO     | main:<module>:12 - Starting CV Uploader API
+2025-04-18 13:35:42.184 | INFO     | main:<module>:12 - Starting CV Uploader API
